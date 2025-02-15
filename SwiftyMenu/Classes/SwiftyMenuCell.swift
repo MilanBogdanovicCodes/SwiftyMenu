@@ -23,6 +23,7 @@
 //
 
 import Foundation
+import UIKit
 
 class SwiftyMenuCell: UITableViewCell {
     var rightMargin: CGFloat = 0.0
